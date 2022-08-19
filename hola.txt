@@ -1,0 +1,7 @@
+keytool -genkey -v -keystore key/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias alafat
+
+
+
+
+alias: alafat
+pass: 123456789
